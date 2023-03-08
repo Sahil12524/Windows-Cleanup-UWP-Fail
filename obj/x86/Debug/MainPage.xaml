@@ -19,16 +19,16 @@
             <!-- Using padding columns instead of Margin ensures that the background
                  paints the area under the caption control buttons (for transparent buttons). -->
             <Grid.ColumnDefinitions>
-                <ColumnDefinition x:ConnectionId='3' x:Name="LeftPaddingColumn" Width="11"/>
+                <ColumnDefinition x:ConnectionId='5' x:Name="LeftPaddingColumn" Width="11"/>
                 <ColumnDefinition/>
-                <ColumnDefinition x:ConnectionId='4' x:Name="RightPaddingColumn" Width="0"/>
+                <ColumnDefinition x:ConnectionId='6' x:Name="RightPaddingColumn" Width="0"/>
             </Grid.ColumnDefinitions>
             <Image Source="Assets/cleaning_broom32x32.png" 
                    Grid.Column="1"
                    HorizontalAlignment="Left"
                    Width="16" Height="16"
                    Margin="8,0,0,0"/>
-            <TextBlock x:ConnectionId='5' x:Name="AppTitleTextBlock"
+            <TextBlock x:ConnectionId='7' x:Name="AppTitleTextBlock"
                        Text="Windows Cleanup" 
                        Style="{StaticResource CaptionTextBlockStyle}" 
                        Grid.Column="1"
@@ -43,14 +43,19 @@
                         HorizontalAlignment="Center"
                         Width="260" Height="32"/>-->
 
-        <muxc:NavigationView Grid.Row="1"
+        <muxc:NavigationView x:ConnectionId='3' Grid.Row="1"
                              IsBackButtonVisible="Collapsed"
-                             IsSettingsVisible="False">
-            <StackPanel>
+                             IsSettingsVisible="True"
+                             x:Name="NavView"                                                                                                      >
+            <!--<StackPanel>
                 <TextBlock Text="Content" 
                            Style="{ThemeResource TitleTextBlockStyle}"
                            Margin="12,0,0,0"/>
-            </StackPanel>
+            </StackPanel>-->
+            <Frame x:ConnectionId='4' x:Name="ContentFrame"                                                 ></Frame>
+            <muxc:NavigationView.MenuItems>
+                <muxc:NavigationViewItem Content="Home" Tag="HomeView"  Icon="Home"/>
+            </muxc:NavigationView.MenuItems>
         </muxc:NavigationView>
     </Grid>
 </Page>

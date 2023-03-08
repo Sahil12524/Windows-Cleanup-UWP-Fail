@@ -1,0 +1,512 @@
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\App.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\MainPage.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\Views\HomeView.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\Views\SettingsView.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\Windows Cleanup UWP.xr.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\Windows Cleanup UWP.exe
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\Windows Cleanup UWP.pdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\resources.pri
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\AppxManifest.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Adapters.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\AssemblyInfo.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Assets\cleaning broom.ico
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Assets\cleaning_broom32x32.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Assets\StoreLogo.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\clrcompression.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Data.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\DotNetNative.debugger-services-def.json
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Helpers.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\ImplTypes.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Microsoft.UI.Xaml.winmd
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Microsoft.Web.WebView2.Core.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Microsoft.Web.WebView2.Core.winmd
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\PInvoke.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\resources.pri
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\SafeTypes.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\SharedStubs.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\WebView2Loader.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Windows Cleanup UWP.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Windows Cleanup UWP.exe
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Windows Cleanup UWP.pdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Windows Cleanup UWP.xr.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\Windows Cleanup UWP.build.appxrecipe
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\Microsoft.Web.WebView2.Core.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\WebView2Loader.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\clrcompression.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\Microsoft.CSharp.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\Microsoft.VisualBasic.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\Microsoft.Win32.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.AppContext.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Buffers.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Collections.Concurrent.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Collections.Immutable.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Collections.NonGeneric.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Collections.Specialized.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Collections.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ComponentModel.Annotations.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ComponentModel.Composition.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ComponentModel.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ComponentModel.TypeConverter.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ComponentModel.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Configuration.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Console.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Core.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Data.Common.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Data.SqlClient.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Data.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Diagnostics.Contracts.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Diagnostics.Debug.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Diagnostics.DiagnosticSource.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Diagnostics.FileVersionInfo.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Diagnostics.Process.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Diagnostics.StackTrace.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Diagnostics.TextWriterTraceListener.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Diagnostics.Tools.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Diagnostics.TraceSource.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Diagnostics.Tracing.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Drawing.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Drawing.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Dynamic.Runtime.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Globalization.Calendars.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Globalization.Extensions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Globalization.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.Compression.FileSystem.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.Compression.ZipFile.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.Compression.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.FileSystem.DriveInfo.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.FileSystem.Watcher.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.FileSystem.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.IsolatedStorage.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.MemoryMappedFiles.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.Pipes.AccessControl.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.Pipes.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.Ports.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.IO.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Linq.Expressions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Linq.Parallel.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Linq.Queryable.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Linq.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Memory.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.Http.Rtc.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.Http.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.HttpListener.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.Mail.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.NameResolution.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.NetworkInformation.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.Ping.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.Requests.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.Security.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.ServicePoint.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.Sockets.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.WebClient.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.WebHeaderCollection.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.WebProxy.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.WebSockets.Client.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.WebSockets.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Net.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Numerics.Vectors.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Numerics.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ObjectModel.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Private.DataContractSerialization.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Private.Reflection.Metadata.Ecma335.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Private.ServiceModel.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Private.Uri.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Private.Xml.Linq.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Private.Xml.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Reflection.Context.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Reflection.DispatchProxy.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Reflection.Emit.Lightweight.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Reflection.Emit.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Reflection.Extensions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Reflection.Metadata.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Reflection.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Reflection.TypeExtensions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Reflection.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Resources.Reader.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Resources.ResourceManager.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Resources.Writer.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.CompilerServices.VisualC.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.Extensions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.Handles.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.InteropServices.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.Numerics.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.Serialization.Formatters.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.Serialization.Json.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.Serialization.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Runtime.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Security.AccessControl.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Security.Claims.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Security.Cryptography.Algorithms.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Security.Cryptography.Cng.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Security.Cryptography.Csp.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Security.Cryptography.Encoding.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Security.Cryptography.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Security.Cryptography.X509Certificates.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Security.Permissions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Security.Principal.Windows.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Security.Principal.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Security.SecureString.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Security.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ServiceModel.Duplex.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ServiceModel.Http.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ServiceModel.NetTcp.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ServiceModel.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ServiceModel.Security.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ServiceModel.Web.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ServiceModel.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ServiceProcess.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Text.Encoding.CodePages.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Text.Encoding.Extensions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Text.Encoding.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Text.RegularExpressions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Threading.Overlapped.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Threading.Tasks.Extensions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Threading.Tasks.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Threading.Thread.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Threading.ThreadPool.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Threading.Timer.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Threading.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Transactions.Local.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Transactions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.ValueTuple.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Web.HttpUtility.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Web.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Windows.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Xml.Linq.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Xml.ReaderWriter.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Xml.Serialization.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Xml.XDocument.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Xml.XPath.XDocument.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Xml.XPath.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Xml.XmlDocument.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Xml.XmlSerializer.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.Xml.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\System.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\WindowsBase.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\mscorlib.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\netstandard.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\Microsoft.Web.WebView2.Core.winmd
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Windows Cleanup UWP.csproj.AssemblyReference.cache
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\App.g.i.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\App.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\MainPage.g.i.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\MainPage.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Views\HomeView.g.i.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Views\HomeView.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Views\SettingsView.g.i.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Views\SettingsView.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\XamlTypeInfo.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\App.xaml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\MainPage.xaml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Views\HomeView.xaml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Views\SettingsView.xaml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\App.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\MainPage.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Views\HomeView.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Views\SettingsView.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\XamlSaveStateFile.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Windows Cleanup UWP.csproj.CoreCompileInputs.cache
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Windows Cleanup UWP.csproj.CopyComplete
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Microsoft.UI.Xaml.pri.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Windows Cleanup UWP.exe
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Windows Cleanup UWP.pdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ResourceHandlingTask.state
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\priconfig.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\priconfig.xml.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\unfiltered.layout.resfiles
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\unfiltered.layout.resfiles.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\filtered.layout.resfiles
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\filtered.layout.resfiles.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\excluded.layout.resfiles
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\excluded.layout.resfiles.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\resources.resfiles
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\resources.resfiles.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\pri.resfiles
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\pri.resfiles.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\qualifiers.txt
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\qualifiers.txt.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ProjectArchitectures.txt
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Properties\Default.rd.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Windows Cleanup UWP.xr.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\AppxManifest.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Windows Cleanup UWP.pdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Windows Cleanup UWP.exe
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Microsoft.Win32.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.AppContext.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Buffers.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Collections.Concurrent.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Collections.Immutable.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Collections.NonGeneric.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Collections.Specialized.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Collections.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ComponentModel.Annotations.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ComponentModel.Composition.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ComponentModel.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ComponentModel.TypeConverter.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ComponentModel.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Configuration.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Console.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Core.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Data.Common.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Data.SqlClient.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Data.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Diagnostics.Contracts.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Diagnostics.DiagnosticSource.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Diagnostics.FileVersionInfo.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Diagnostics.Process.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Diagnostics.StackTrace.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Diagnostics.TextWriterTraceListener.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Diagnostics.Tools.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Diagnostics.TraceSource.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Diagnostics.Tracing.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Drawing.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Drawing.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Globalization.Calendars.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Globalization.Extensions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Globalization.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.Compression.FileSystem.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.Compression.ZipFile.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.Compression.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.FileSystem.DriveInfo.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.FileSystem.Watcher.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.FileSystem.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.IsolatedStorage.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.MemoryMappedFiles.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.Pipes.AccessControl.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.Pipes.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.Ports.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.IO.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Linq.Expressions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Linq.Parallel.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Linq.Queryable.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Linq.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Memory.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.Http.Rtc.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.Http.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.HttpListener.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.Mail.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.NameResolution.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.NetworkInformation.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.Ping.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.Requests.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.Security.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.ServicePoint.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.Sockets.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.WebClient.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.WebHeaderCollection.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.WebProxy.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.WebSockets.Client.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.WebSockets.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Net.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Numerics.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ObjectModel.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Private.DataContractSerialization.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Private.Reflection.Metadata.Ecma335.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Private.ServiceModel.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Private.Uri.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Private.Xml.Linq.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Private.Xml.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Reflection.Context.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Reflection.Emit.ILGeneration.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Reflection.Emit.Lightweight.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Reflection.Emit.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Reflection.Extensions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Reflection.Metadata.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Reflection.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Reflection.TypeExtensions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Reflection.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Resources.Reader.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Resources.ResourceManager.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Resources.Writer.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.CompilerServices.Unsafe.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.CompilerServices.VisualC.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.Handles.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.Numerics.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.Serialization.Formatters.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.Serialization.Json.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.Serialization.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Runtime.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Security.AccessControl.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Security.Claims.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Security.Cryptography.Algorithms.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Security.Cryptography.Cng.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Security.Cryptography.Csp.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Security.Cryptography.Encoding.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Security.Cryptography.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Security.Cryptography.X509Certificates.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Security.Permissions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Security.Principal.Windows.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Security.Principal.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Security.SecureString.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Security.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ServiceModel.Duplex.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ServiceModel.Http.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ServiceModel.NetTcp.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ServiceModel.Primitives.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ServiceModel.Security.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ServiceModel.Web.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ServiceModel.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ServiceProcess.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Text.Encoding.CodePages.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Text.Encoding.Extensions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Text.Encoding.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Text.RegularExpressions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Threading.Overlapped.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Threading.Tasks.Extensions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Threading.Tasks.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Threading.Thread.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Threading.ThreadPool.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Threading.Timer.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Threading.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Transactions.Local.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Transactions.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.ValueTuple.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Web.HttpUtility.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Web.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Windows.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Xml.Linq.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Xml.ReaderWriter.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Xml.Serialization.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Xml.XDocument.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Xml.XPath.XDocument.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Xml.XPath.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Xml.XmlDocument.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Xml.XmlSerializer.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.Xml.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\System.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\WindowsBase.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\mscorlib.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\netstandard.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Microsoft.Web.WebView2.Core.winmd
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Microsoft.UI.Xaml.winmd
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\resources.pri
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Microsoft.Web.WebView2.Core.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\WebView2Loader.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\clrcompression.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Assets\cleaning broom.ico
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Assets\cleaning_broom32x32.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Assets\LockScreenLogo.scale-200.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Assets\SplashScreen.scale-200.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Assets\StoreLogo.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc.Windows Cleanup UWP.rsp
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\gkargs.rsp
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Windows Cleanup UWP.Generated.ildll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Windows Cleanup UWP.Generated.ilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.CompilerServices.Unsafe.ildll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.CompilerServices.Unsafe.ilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.ildll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.ilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.WindowsRuntime.ildll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.WindowsRuntime.ilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Windows Cleanup UWP.closure.csv
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Windows Cleanup UWP.csv
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Windows Cleanup UWP.forwarders.csv
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Windows Cleanup UWP.ilexe
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Windows Cleanup UWP.ilexe.ILTransformTask.repro
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Windows Cleanup UWP.ilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Windows Cleanup UWP.McgInterop.ildll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Windows Cleanup UWP.McgInterop.ilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Windows Cleanup UWP.metadata
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Windows Cleanup UWP.reflectionlog.csv
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\ILTransformed\Windows Cleanup UWP.res
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\MDIL\Windows Cleanup UWP.mdilexe
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\MDIL\Windows Cleanup UWP.mdilpdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\MDIL\Windows Cleanup UWP.rsp
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Native.res
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Native\DotNetNative.debugger-services-def.json
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Native\Windows Cleanup UWP.pdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\Windows Cleanup UWP.exe
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\Windows Cleanup UWP.pdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Resources\System.Numerics.Vectors.0.rsrc
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Resources\System.Numerics.Vectors.index.txt
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Resources\System.Private.DeveloperExperience.AppX.0.rsrc
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Resources\System.Private.DeveloperExperience.AppX.index.txt
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.0.rsrc
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.index.txt
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.WindowsRuntime.0.rsrc
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.WindowsRuntime.index.txt
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.0.rsrc
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.index.txt
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.UI.Xaml.0.rsrc
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.UI.Xaml.index.txt
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\rhbindargs.Windows Cleanup UWP.rsp
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\System.Private.Windows Cleanup UWP.Generated.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop.pdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop.rsp
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop\Adapters.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop\AssemblyInfo.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop\Data.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop\Helpers.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop\ImplTypes.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop\PInvoke.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop\SafeTypes.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop\SharedStubs.g.cs

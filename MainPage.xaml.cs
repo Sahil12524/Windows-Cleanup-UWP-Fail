@@ -1,21 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Runtime.InteropServices.WindowsRuntime;
+﻿using System.Reflection;
 using Windows.ApplicationModel.Core;
-using Windows.Foundation;
-using Windows.Foundation.Collections;
-using Windows.UI.ViewManagement;
 using Windows.UI;
+using Windows.UI.Core;
+using Windows.UI.ViewManagement;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-using Windows.UI.Xaml.Controls.Primitives;
-using Windows.UI.Xaml.Data;
-using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
+using Windows.UI.Xaml.Media.Animation;
 using Windows.UI.Xaml.Navigation;
-using Windows.UI.Core;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
@@ -26,6 +18,7 @@ namespace Windows_Cleanup_UWP
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        private Microsoft.UI.Xaml.Controls.NavigationViewItem _lastItem;
         public MainPage()
         {
             this.InitializeComponent();
@@ -85,6 +78,53 @@ namespace Windows_Cleanup_UWP
                 AppTitleTextBlock.Foreground =
                    new SolidColorBrush(settings.UIElementColor(UIElementType.Window));
             }
+        }
+
+        private void ContentFrame_NavigationFailed(object sender, NavigationFailedEventArgs e)
+        {
+
+        }
+
+        private void NavView_ItemInvoked(Microsoft.UI.Xaml.Controls.NavigationView sender, Microsoft.UI.Xaml.Controls.NavigationViewItemInvokedEventArgs args)
+        {
+            var item = args.InvokedItemContainer as Microsoft.UI.Xaml.Controls.NavigationViewItem;
+            if (item == null || item == _lastItem)
+                return;
+            var ClickedView = item.Tag?.ToString();
+            if (args.IsSettingsInvoked)
+            {
+                item = NavView.SettingsItem as Microsoft.UI.Xaml.Controls.NavigationViewItem;
+                ClickedView = "SettingsView";
+            }
+            if (!NavigateToView(ClickedView)) return;
+            _lastItem = item;
+        }
+
+        private bool NavigateToView(string clickedView)
+        {
+            var view = Assembly.GetExecutingAssembly().GetType($"Windows_Cleanup_UWP.Views.{clickedView}");
+            if (string.IsNullOrWhiteSpace(clickedView) || view == null)
+                return false;
+            ContentFrame.Navigate(view, null, new EntranceNavigationTransitionInfo());
+            return true;
+        }
+
+        private void NavView_Loaded(object sender, RoutedEventArgs e)
+        {
+            foreach (Microsoft.UI.Xaml.Controls.NavigationViewItemBase item in NavView.MenuItems)
+            {
+                if (item is Microsoft.UI.Xaml.Controls.NavigationViewItem && item.Tag.ToString() == "HomeView")
+                {
+                    NavView.SelectedItem = item;
+                    break;
+                }
+            }
+            ContentFrame.Navigate(typeof(Windows_Cleanup_UWP.Views.HomeView));
+        }
+
+        private void NavView_SelectionChanged(Microsoft.UI.Xaml.Controls.NavigationView sender, Microsoft.UI.Xaml.Controls.NavigationViewSelectionChangedEventArgs args)
+        {
+
         }
     }
 }

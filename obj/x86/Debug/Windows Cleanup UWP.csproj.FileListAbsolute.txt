@@ -48,3 +48,13 @@ E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Debug\MultipleQualifiers
 E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Debug\ProjectArchitectures.txt
 E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934824560000000.json
 E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Debug\Views\HomeView.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Debug\Views\SettingsView.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Debug\Views\HomeView.g.i.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Debug\Views\HomeView.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Debug\Views\SettingsView.g.i.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Debug\Views\SettingsView.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Debug\Views\HomeView.xaml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Debug\Views\SettingsView.xaml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Debug\Views\HomeView.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Debug\Views\SettingsView.xbf
