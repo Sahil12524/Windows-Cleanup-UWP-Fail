@@ -75,8 +75,9 @@ namespace Windows_Cleanup_UWP
             }
             else
             {
-                AppTitleTextBlock.Foreground =
-                   new SolidColorBrush(settings.UIElementColor(UIElementType.Window));
+                //AppTitleTextBlock.Foreground =
+                //   new SolidColorBrush(settings.UIElementColor(UIElementType.WindowText));
+                AppTitleTextBlock.Foreground = new SolidColorBrush(settings.GetColorValue(UIColorType.Foreground));
             }
         }
 
