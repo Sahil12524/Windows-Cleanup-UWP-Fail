@@ -30,13 +30,13 @@
     <AppXManifest Include="E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T08:30:00.563</Modified>
+      <Modified>2023-03-09T20:34:10.237</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Debug\Windows Cleanup UWP.exe">
       <PackagePath>entrypoint\Windows Cleanup UWP.exe</PackagePath>
-      <Modified>2023-03-09T08:29:59.702</Modified>
+      <Modified>2023-03-09T20:34:08.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sahil\.nuget\packages\microsoft.web.webview2\1.0.1264.42\build\..\runtimes\win-x86\native_uap\Microsoft.Web.WebView2.Core.dll">
       <PackagePath>Microsoft.Web.WebView2.Core.dll</PackagePath>
@@ -110,19 +110,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2023-03-09T08:29:59.671</Modified>
+      <Modified>2023-03-09T20:34:08.013</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2023-03-09T08:29:59.671</Modified>
+      <Modified>2023-03-09T20:34:08.013</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Debug\Views\HomeView.xbf">
       <PackagePath>Views\HomeView.xbf</PackagePath>
-      <Modified>2023-03-09T08:29:59.671</Modified>
+      <Modified>2023-03-09T20:34:08.013</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Debug\Views\SettingsView.xbf">
       <PackagePath>Views\SettingsView.xbf</PackagePath>
-      <Modified>2023-03-09T08:29:59.671</Modified>
+      <Modified>2023-03-09T20:34:08.013</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22000.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -142,7 +142,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Debug\Core\Windows Cleanup UWP.exe">
       <PackagePath>Windows Cleanup UWP.exe</PackagePath>
-      <Modified>2023-03-09T08:30:00.563</Modified>
+      <Modified>2023-03-09T20:34:10.228</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

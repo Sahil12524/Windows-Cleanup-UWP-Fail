@@ -8,6 +8,7 @@ using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Media.Animation;
 using Windows.UI.Xaml.Navigation;
+using Windows_Cleanup_UWP.Views;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
@@ -92,11 +93,7 @@ namespace Windows_Cleanup_UWP
             if (item == null || item == _lastItem)
                 return;
             var ClickedView = item.Tag?.ToString();
-            if (args.IsSettingsInvoked)
-            {
-                item = NavView.SettingsItem as Microsoft.UI.Xaml.Controls.NavigationViewItem;
-                ClickedView = "SettingsView";
-            }
+            //NavView.Header = $"{ClickedView}";
             if (!NavigateToView(ClickedView)) return;
             _lastItem = item;
         }
@@ -125,7 +122,24 @@ namespace Windows_Cleanup_UWP
 
         private void NavView_SelectionChanged(Microsoft.UI.Xaml.Controls.NavigationView sender, Microsoft.UI.Xaml.Controls.NavigationViewSelectionChangedEventArgs args)
         {
-
+            if (args.IsSettingsSelected)
+            {
+                ContentFrame.Navigate(typeof(Windows_Cleanup_UWP.Views.SettingsView));
+                NavView.Header = "Settings";
+            }
+            else
+            {
+                Microsoft.UI.Xaml.Controls.NavigationViewItem item = args.SelectedItem as Microsoft.UI.Xaml.Controls.NavigationViewItem;
+                switch (item.Tag)
+                {
+                    case "HomeView":
+                        ContentFrame.Navigate(typeof(Windows_Cleanup_UWP.Views.HomeView));
+                        NavView.Header = "Home";
+                        break;
+                    default:
+                        break;
+                }
+            }
         }
     }
 }
