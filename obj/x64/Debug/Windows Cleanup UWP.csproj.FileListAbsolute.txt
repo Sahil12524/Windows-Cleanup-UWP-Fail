@@ -1,0 +1,60 @@
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\App.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\MainPage.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\Views\HomeView.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\Views\SettingsView.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\Windows Cleanup UWP.xr.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\Windows Cleanup UWP.exe
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\Windows Cleanup UWP.pdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\resources.pri
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\AppxManifest.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\Core\AppxManifest.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\Core\Windows Cleanup UWP.exe
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\Windows Cleanup UWP.build.appxrecipe
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\Microsoft.Web.WebView2.Core.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\WebView2Loader.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\System.Runtime.dll
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\Microsoft.Web.WebView2.Core.winmd
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Windows Cleanup UWP.csproj.AssemblyReference.cache
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\App.g.i.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\App.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\MainPage.g.i.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\MainPage.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Views\HomeView.g.i.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Views\HomeView.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Views\SettingsView.g.i.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Views\SettingsView.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\App.xaml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\MainPage.xaml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Views\HomeView.xaml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Views\SettingsView.xaml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\App.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\MainPage.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Views\HomeView.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Views\SettingsView.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\XamlSaveStateFile.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Windows Cleanup UWP.csproj.CoreCompileInputs.cache
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Windows Cleanup UWP.csproj.CopyComplete
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Windows Cleanup UWP.exe
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Windows Cleanup UWP.pdb
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\ResourceHandlingTask.state
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\priconfig.xml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\priconfig.xml.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\unfiltered.layout.resfiles
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\filtered.layout.resfiles
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\excluded.layout.resfiles
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\resources.resfiles
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\resources.resfiles.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\pri.resfiles
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\pri.resfiles.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\qualifiers.txt
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\qualifiers.txt.intermediate
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\ProjectArchitectures.txt
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934824560000000.json
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json

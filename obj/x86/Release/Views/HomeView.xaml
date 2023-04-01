@@ -9,10 +9,31 @@
     mc:Ignorable="d"
     muxc:BackdropMaterial.ApplyToRootOrPageBackground="True">
     <!--Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">-->
-
-    <Grid>
-        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Home View" VerticalAlignment="Center" FontSize="36"/>
-
-    </Grid>
+    <ScrollViewer>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Row="0" Grid.Column="0">
+                <TextBlock Text="Hello!," FontSize="25" VerticalAlignment="Top" TextWrapping="WrapWholeWords" Padding="30,30,0,0" FontWeight="Bold"/>
+                <TextBlock Text="Thanks for using my app. Use this app daily to ensure a fast and healty system. Especially gamers will love this app." FontSize="20" TextWrapping="WrapWholeWords" Padding="30,10,0,0"/>
+            </StackPanel>
+            <StackPanel Grid.Row="0" Grid.Column="1">
+                <TextBlock Text="How this app works?" FontSize="25" VerticalAlignment="Top" TextWrapping="WrapWholeWords" Padding="30,30,0,0" FontWeight="Bold"/>
+                <TextBlock Text="This app will remove Temp, %Temp% and Prefetch all at once, which are known to be junk files. Btw this app can do other things too apart from just a cleaning task." FontSize="20" TextWrapping="WrapWholeWords" Padding="30,10,0,0"/>
+            </StackPanel>
+            <StackPanel Grid.Row="0" Grid.Column="2">
+                <TextBlock Text="Why to use this app?" FontSize="25" VerticalAlignment="Top" TextWrapping="WrapWholeWords" Padding="30,30,30,0" FontWeight="Bold"/>
+                <TextBlock Text="This app has user friendly design to make this app useable by every one, no matters if it is a child or a elderly person. This app makes the whole process safe and simple, saves your lot of percious time." FontSize="20" TextWrapping="WrapWholeWords" Padding="30,10,30,0"/>
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
 </Page>
 

@@ -1060,7 +1060,16 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static TResult HasThisCall__37<TResult>(
+		internal static int StdCall__37(
+					global::System.IntPtr pfn, 
+					void* pthis, 
+					global::Windows.UI.Text.FontWeight arg0)
+		{
+			// This method is implemented elsewhere in the toolchain
+			return 0;
+		}
+
+		internal static TResult HasThisCall__38<TResult>(
 					object __this, 
 					global::System.IntPtr pfn, 
 					string arg0)
@@ -1069,7 +1078,7 @@ namespace __Interop
 			return default(TResult);
 		}
 
-		internal static TResult HasThisCall__38<TResult>(
+		internal static TResult HasThisCall__39<TResult>(
 					object __this, 
 					global::System.IntPtr pfn)
 		{
@@ -1077,7 +1086,7 @@ namespace __Interop
 			return default(TResult);
 		}
 
-		internal static bool HasThisCall__39(
+		internal static bool HasThisCall__40(
 					object __this, 
 					global::System.IntPtr pfn)
 		{
@@ -1085,7 +1094,7 @@ namespace __Interop
 			return default(bool);
 		}
 
-		internal static global::System.Type HasThisCall__40(
+		internal static global::System.Type HasThisCall__41(
 					object __this, 
 					global::System.IntPtr pfn)
 		{
@@ -1093,7 +1102,7 @@ namespace __Interop
 			return default(global::System.Type);
 		}
 
-		internal static void HasThisCall__41(
+		internal static void HasThisCall__42(
 					object __this, 
 					global::System.IntPtr pfn, 
 					object arg0, 
@@ -1102,14 +1111,14 @@ namespace __Interop
 			// This method is implemented elsewhere in the toolchain
 		}
 
-		internal static void HasThisCall__42(
+		internal static void HasThisCall__43(
 					object __this, 
 					global::System.IntPtr pfn)
 		{
 			// This method is implemented elsewhere in the toolchain
 		}
 
-		internal static int StdCall__43(
+		internal static int StdCall__44(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					void* arg0, 
@@ -1121,7 +1130,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__44(
+		internal static int StdCall__45(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					double arg0, 
@@ -1133,7 +1142,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__45(
+		internal static int StdCall__46(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					double arg0, 
@@ -1143,7 +1152,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__46(
+		internal static int StdCall__47(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					global::Windows.UI.Color arg0)
@@ -1152,7 +1161,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__47(
+		internal static int StdCall__48(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					global::System.Numerics.Vector4 arg0)
@@ -1161,7 +1170,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__48(
+		internal static int StdCall__49(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					global::Windows.UI.Color arg0, 
@@ -1171,7 +1180,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__49(
+		internal static int StdCall__50(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					void* arg0, 
@@ -1182,7 +1191,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__50(
+		internal static int StdCall__51(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					void* arg0, 
@@ -1195,7 +1204,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__51(
+		internal static int StdCall__52(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					void* arg0, 
@@ -1205,20 +1214,11 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__52(
+		internal static int StdCall__53(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					global::System.Runtime.InteropServices.HSTRING arg0, 
 					global::Windows.UI.Color arg1)
-		{
-			// This method is implemented elsewhere in the toolchain
-			return 0;
-		}
-
-		internal static int StdCall__53(
-					global::System.IntPtr pfn, 
-					void* pthis, 
-					global::Windows.UI.Text.FontWeight arg0)
 		{
 			// This method is implemented elsewhere in the toolchain
 			return 0;
@@ -2905,376 +2905,6 @@ namespace __Interop
 		public delegate void AddrOfTarget103(
 					global::System.__ComObject a0, 
 					object a1, 
-					global::Windows.UI.Xaml.Controls.Primitives.RangeBaseValueChangedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget104(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.Primitives.ColorSpectrum a1, 
-					global::Microsoft.UI.Xaml.Controls.ColorChangedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget105(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.Expander a1, 
-					global::Microsoft.UI.Xaml.Controls.ExpanderExpandingEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget106(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.Expander a1, 
-					global::Microsoft.UI.Xaml.Controls.ExpanderCollapsedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget107(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.InfoBar a1, 
-					object a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget108(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.InfoBar a1, 
-					global::Microsoft.UI.Xaml.Controls.InfoBarClosingEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget109(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.InfoBar a1, 
-					global::Microsoft.UI.Xaml.Controls.InfoBarClosedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget110(
-					global::System.__ComObject a0, 
-					global::Windows.UI.Xaml.Controls.Primitives.FlyoutBase a1, 
-					global::Windows.UI.Xaml.Controls.Primitives.FlyoutBaseClosingEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget111(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.NumberBox a1, 
-					global::Microsoft.UI.Xaml.Controls.NumberBoxValueChangedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget112(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.PipsPager a1, 
-					global::Microsoft.UI.Xaml.Controls.PipsPagerSelectedIndexChangedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget113(
-					global::System.__ComObject a0, 
-					object a1, 
-					global::Windows.UI.Xaml.Controls.SelectionChangedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget114(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.RatingControl a1, 
-					object a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget115(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.Layout a1, 
-					object a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget116(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.ItemsRepeater a1, 
-					global::Microsoft.UI.Xaml.Controls.ItemsRepeaterElementPreparedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget117(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.ItemsRepeater a1, 
-					global::Microsoft.UI.Xaml.Controls.ItemsRepeaterElementClearingEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget118(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.ItemsRepeater a1, 
-					global::Microsoft.UI.Xaml.Controls.ItemsRepeaterElementIndexChangedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget119(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.SplitButton a1, 
-					global::Microsoft.UI.Xaml.Controls.SplitButtonClickEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget120(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.TabViewItem a1, 
-					global::Microsoft.UI.Xaml.Controls.TabViewTabCloseRequestedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget121(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.TabView a1, 
-					global::Microsoft.UI.Xaml.Controls.TabViewTabCloseRequestedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget122(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.TabView a1, 
-					global::Microsoft.UI.Xaml.Controls.TabViewTabDroppedOutsideEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget123(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.TabView a1, 
-					object a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget124(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.TabView a1, 
-					global::Windows.Foundation.Collections.IVectorChangedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget125(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.TabView a1, 
-					global::Microsoft.UI.Xaml.Controls.TabViewTabDragStartingEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget126(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.TabView a1, 
-					global::Microsoft.UI.Xaml.Controls.TabViewTabDragCompletedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget127(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.TeachingTip a1, 
-					object a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget128(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.TeachingTip a1, 
-					global::Microsoft.UI.Xaml.Controls.TeachingTipClosingEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget129(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.TeachingTip a1, 
-					global::Microsoft.UI.Xaml.Controls.TeachingTipClosedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget130(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.ToggleSplitButton a1, 
-					global::Microsoft.UI.Xaml.Controls.ToggleSplitButtonIsCheckedChangedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget131(
-					global::System.__ComObject a0, 
-					object a1, 
-					global::Windows.UI.Xaml.Controls.ItemClickEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget132(
-					global::System.__ComObject a0, 
-					object a1, 
-					global::Windows.UI.Xaml.Controls.DragItemsStartingEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget133(
-					global::System.__ComObject a0, 
-					global::Windows.UI.Xaml.Controls.ListViewBase a1, 
-					global::Windows.UI.Xaml.Controls.ContainerContentChangingEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget134(
-					global::System.__ComObject a0, 
-					global::Windows.UI.Xaml.Controls.ListViewBase a1, 
-					global::Windows.UI.Xaml.Controls.DragItemsCompletedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget135(
-					global::System.__ComObject a0, 
-					global::Windows.UI.Xaml.Controls.ListViewBase a1, 
-					global::Windows.UI.Xaml.Controls.ChoosingItemContainerEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget136(
-					global::System.__ComObject a0, 
-					global::Windows.UI.Xaml.Controls.ListViewBase a1, 
-					global::Windows.UI.Xaml.Controls.ChoosingGroupHeaderContainerEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget137(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.BreadcrumbBar a1, 
-					global::Microsoft.UI.Xaml.Controls.BreadcrumbBarItemClickedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget138(
-					global::System.__ComObject a0, 
-					global::Microsoft.UI.Xaml.Controls.ColorPicker a1, 
-					global::Microsoft.UI.Xaml.Controls.ColorChangedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget139(
-					global::System.__ComObject a0, 
-					global::Windows.Foundation.Collections.IObservableVector<global::Windows.UI.Xaml.Controls.ICommandBarElement> a1, 
-					global::Windows.Foundation.Collections.IVectorChangedEventArgs a2);
-
-		#endif
-
-
-		#if false
-		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget140(
-					global::System.__ComObject a0, 
-					object a1, 
 					global::Windows.UI.Xaml.Controls.ScrollViewerViewChangedEventArgs a2);
 
 		#endif
@@ -3282,7 +2912,7 @@ namespace __Interop
 
 		#if false
 		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget141(
+		public delegate void AddrOfTarget104(
 					global::System.__ComObject a0, 
 					object a1, 
 					global::Windows.UI.Xaml.Controls.ScrollViewerViewChangingEventArgs a2);
@@ -3292,10 +2922,380 @@ namespace __Interop
 
 		#if false
 		[global::Internal.PreInitializedAddrOfDelegate]
-		public delegate void AddrOfTarget142(
+		public delegate void AddrOfTarget105(
 					global::System.__ComObject a0, 
 					global::Windows.UI.Xaml.Controls.ScrollViewer a1, 
 					global::Windows.UI.Xaml.Controls.AnchorRequestedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget106(
+					global::System.__ComObject a0, 
+					object a1, 
+					global::Windows.UI.Xaml.Controls.Primitives.RangeBaseValueChangedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget107(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.Primitives.ColorSpectrum a1, 
+					global::Microsoft.UI.Xaml.Controls.ColorChangedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget108(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.Expander a1, 
+					global::Microsoft.UI.Xaml.Controls.ExpanderExpandingEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget109(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.Expander a1, 
+					global::Microsoft.UI.Xaml.Controls.ExpanderCollapsedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget110(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.InfoBar a1, 
+					object a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget111(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.InfoBar a1, 
+					global::Microsoft.UI.Xaml.Controls.InfoBarClosingEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget112(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.InfoBar a1, 
+					global::Microsoft.UI.Xaml.Controls.InfoBarClosedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget113(
+					global::System.__ComObject a0, 
+					global::Windows.UI.Xaml.Controls.Primitives.FlyoutBase a1, 
+					global::Windows.UI.Xaml.Controls.Primitives.FlyoutBaseClosingEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget114(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.NumberBox a1, 
+					global::Microsoft.UI.Xaml.Controls.NumberBoxValueChangedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget115(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.PipsPager a1, 
+					global::Microsoft.UI.Xaml.Controls.PipsPagerSelectedIndexChangedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget116(
+					global::System.__ComObject a0, 
+					object a1, 
+					global::Windows.UI.Xaml.Controls.SelectionChangedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget117(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.RatingControl a1, 
+					object a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget118(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.Layout a1, 
+					object a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget119(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.ItemsRepeater a1, 
+					global::Microsoft.UI.Xaml.Controls.ItemsRepeaterElementPreparedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget120(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.ItemsRepeater a1, 
+					global::Microsoft.UI.Xaml.Controls.ItemsRepeaterElementClearingEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget121(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.ItemsRepeater a1, 
+					global::Microsoft.UI.Xaml.Controls.ItemsRepeaterElementIndexChangedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget122(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.SplitButton a1, 
+					global::Microsoft.UI.Xaml.Controls.SplitButtonClickEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget123(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.TabViewItem a1, 
+					global::Microsoft.UI.Xaml.Controls.TabViewTabCloseRequestedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget124(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.TabView a1, 
+					global::Microsoft.UI.Xaml.Controls.TabViewTabCloseRequestedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget125(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.TabView a1, 
+					global::Microsoft.UI.Xaml.Controls.TabViewTabDroppedOutsideEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget126(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.TabView a1, 
+					object a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget127(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.TabView a1, 
+					global::Windows.Foundation.Collections.IVectorChangedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget128(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.TabView a1, 
+					global::Microsoft.UI.Xaml.Controls.TabViewTabDragStartingEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget129(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.TabView a1, 
+					global::Microsoft.UI.Xaml.Controls.TabViewTabDragCompletedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget130(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.TeachingTip a1, 
+					object a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget131(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.TeachingTip a1, 
+					global::Microsoft.UI.Xaml.Controls.TeachingTipClosingEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget132(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.TeachingTip a1, 
+					global::Microsoft.UI.Xaml.Controls.TeachingTipClosedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget133(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.ToggleSplitButton a1, 
+					global::Microsoft.UI.Xaml.Controls.ToggleSplitButtonIsCheckedChangedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget134(
+					global::System.__ComObject a0, 
+					object a1, 
+					global::Windows.UI.Xaml.Controls.ItemClickEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget135(
+					global::System.__ComObject a0, 
+					object a1, 
+					global::Windows.UI.Xaml.Controls.DragItemsStartingEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget136(
+					global::System.__ComObject a0, 
+					global::Windows.UI.Xaml.Controls.ListViewBase a1, 
+					global::Windows.UI.Xaml.Controls.ContainerContentChangingEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget137(
+					global::System.__ComObject a0, 
+					global::Windows.UI.Xaml.Controls.ListViewBase a1, 
+					global::Windows.UI.Xaml.Controls.DragItemsCompletedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget138(
+					global::System.__ComObject a0, 
+					global::Windows.UI.Xaml.Controls.ListViewBase a1, 
+					global::Windows.UI.Xaml.Controls.ChoosingItemContainerEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget139(
+					global::System.__ComObject a0, 
+					global::Windows.UI.Xaml.Controls.ListViewBase a1, 
+					global::Windows.UI.Xaml.Controls.ChoosingGroupHeaderContainerEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget140(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.BreadcrumbBar a1, 
+					global::Microsoft.UI.Xaml.Controls.BreadcrumbBarItemClickedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget141(
+					global::System.__ComObject a0, 
+					global::Microsoft.UI.Xaml.Controls.ColorPicker a1, 
+					global::Microsoft.UI.Xaml.Controls.ColorChangedEventArgs a2);
+
+		#endif
+
+
+		#if false
+		[global::Internal.PreInitializedAddrOfDelegate]
+		public delegate void AddrOfTarget142(
+					global::System.__ComObject a0, 
+					global::Windows.Foundation.Collections.IObservableVector<global::Windows.UI.Xaml.Controls.ICommandBarElement> a1, 
+					global::Windows.Foundation.Collections.IVectorChangedEventArgs a2);
 
 		#endif
 
