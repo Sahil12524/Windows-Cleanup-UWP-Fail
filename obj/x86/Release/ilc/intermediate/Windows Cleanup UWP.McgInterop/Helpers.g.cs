@@ -1060,16 +1060,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__37(
-					global::System.IntPtr pfn, 
-					void* pthis, 
-					global::Windows.UI.Text.FontWeight arg0)
-		{
-			// This method is implemented elsewhere in the toolchain
-			return 0;
-		}
-
-		internal static TResult HasThisCall__38<TResult>(
+		internal static TResult HasThisCall__37<TResult>(
 					object __this, 
 					global::System.IntPtr pfn, 
 					string arg0)
@@ -1078,7 +1069,7 @@ namespace __Interop
 			return default(TResult);
 		}
 
-		internal static TResult HasThisCall__39<TResult>(
+		internal static TResult HasThisCall__38<TResult>(
 					object __this, 
 					global::System.IntPtr pfn)
 		{
@@ -1086,7 +1077,7 @@ namespace __Interop
 			return default(TResult);
 		}
 
-		internal static bool HasThisCall__40(
+		internal static bool HasThisCall__39(
 					object __this, 
 					global::System.IntPtr pfn)
 		{
@@ -1094,7 +1085,7 @@ namespace __Interop
 			return default(bool);
 		}
 
-		internal static global::System.Type HasThisCall__41(
+		internal static global::System.Type HasThisCall__40(
 					object __this, 
 					global::System.IntPtr pfn)
 		{
@@ -1102,7 +1093,7 @@ namespace __Interop
 			return default(global::System.Type);
 		}
 
-		internal static void HasThisCall__42(
+		internal static void HasThisCall__41(
 					object __this, 
 					global::System.IntPtr pfn, 
 					object arg0, 
@@ -1111,14 +1102,14 @@ namespace __Interop
 			// This method is implemented elsewhere in the toolchain
 		}
 
-		internal static void HasThisCall__43(
+		internal static void HasThisCall__42(
 					object __this, 
 					global::System.IntPtr pfn)
 		{
 			// This method is implemented elsewhere in the toolchain
 		}
 
-		internal static int StdCall__44(
+		internal static int StdCall__43(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					void* arg0, 
@@ -1130,7 +1121,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__45(
+		internal static int StdCall__44(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					double arg0, 
@@ -1142,7 +1133,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__46(
+		internal static int StdCall__45(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					double arg0, 
@@ -1152,7 +1143,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__47(
+		internal static int StdCall__46(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					global::Windows.UI.Color arg0)
@@ -1161,7 +1152,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__48(
+		internal static int StdCall__47(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					global::System.Numerics.Vector4 arg0)
@@ -1170,7 +1161,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__49(
+		internal static int StdCall__48(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					global::Windows.UI.Color arg0, 
@@ -1180,7 +1171,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__50(
+		internal static int StdCall__49(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					void* arg0, 
@@ -1191,7 +1182,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__51(
+		internal static int StdCall__50(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					void* arg0, 
@@ -1204,7 +1195,7 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__52(
+		internal static int StdCall__51(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					void* arg0, 
@@ -1214,11 +1205,20 @@ namespace __Interop
 			return 0;
 		}
 
-		internal static int StdCall__53(
+		internal static int StdCall__52(
 					global::System.IntPtr pfn, 
 					void* pthis, 
 					global::System.Runtime.InteropServices.HSTRING arg0, 
 					global::Windows.UI.Color arg1)
+		{
+			// This method is implemented elsewhere in the toolchain
+			return 0;
+		}
+
+		internal static int StdCall__53(
+					global::System.IntPtr pfn, 
+					void* pthis, 
+					global::Windows.UI.Text.FontWeight arg0)
 		{
 			// This method is implemented elsewhere in the toolchain
 			return 0;

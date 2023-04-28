@@ -33,12 +33,13 @@
                     <muxc:Expander.Header>
                         <Grid>
                             <TextBlock Text="Temp files remove" VerticalAlignment="Center" Style="{StaticResource BodyTextBlockStyle}"/>
-                            <Button Content="Clean" HorizontalAlignment="Right" FontSize="14px"/>
+                            <Button Content="Clean" HorizontalAlignment="Right" FontSize="14px" Width="80"/>
                         </Grid>
                     </muxc:Expander.Header>
                     <StackPanel Orientation="Vertical">
                         <TextBlock TextWrapping="WrapWholeWords" Style="{StaticResource BodyTextBlockStyle}">
-                            Clean temporary files from Temp, %temp%, Prefetch all at once. Makes computer feels responisive. <LineBreak/>
+                            Clean temporary files from Temp, %temp%, Prefetch all at once. <LineBreak/>
+                            Makes computer feels responisive. <LineBreak/>
                             Note: Do not use this Button while any software installer is running!
                         </TextBlock>
                     </StackPanel>
@@ -56,12 +57,12 @@
                     <muxc:Expander.Header>
                         <Grid>
                             <TextBlock Text="Windows Update Cache Remove" VerticalAlignment="Center" Style="{StaticResource BodyTextBlockStyle}"/>
-                            <Button Content="Clean" HorizontalAlignment="Right" FontSize="14px"/>
+                            <Button Content="Clean" HorizontalAlignment="Right" FontSize="14px" Width="80"/>
                         </Grid>
                     </muxc:Expander.Header>
                     <StackPanel Orientation="Vertical">
                         <TextBlock TextWrapping="WrapWholeWords" Style="{StaticResource BodyTextBlockStyle}">
-                            Delete all Downloaded Windows Updates.
+                            Delete all Downloaded Windows Updates. <LineBreak/>
                             Helps save C:\ Drive Space after a Windows Update. <LineBreak/>
                             Note: Do not use this Button while Windows is updating.
                         </TextBlock>
@@ -80,12 +81,13 @@
                     <muxc:Expander.Header>
                         <Grid>
                             <TextBlock Text="Check Disk Errors (C Drive Only)" VerticalAlignment="Center" Style="{StaticResource BodyTextBlockStyle}"/>
-                            <Button Content="Check" HorizontalAlignment="Right" FontSize="14px"/>
+                            <Button Content="Check" HorizontalAlignment="Right" FontSize="14px" Width="80"/>
                         </Grid>
                     </muxc:Expander.Header>
                     <StackPanel Orientation="Vertical">
                         <TextBlock TextWrapping="WrapWholeWords" Style="{StaticResource BodyTextBlockStyle}">
-                            If your System is having problem, working slow, this button will try to detect errors and possibly fix them. <LineBreak/>
+                            If your System is having problem, working slow, <LineBreak/>
+                            this button will try to detect errors and possibly fix them. <LineBreak/>
                             Note: Only works after a full computer restart.
                         </TextBlock>
                     </StackPanel>
@@ -103,12 +105,13 @@
                     <muxc:Expander.Header>
                         <Grid>
                             <TextBlock Text="SSD Trim (C Drive Only)" VerticalAlignment="Center" Style="{StaticResource BodyTextBlockStyle}"/>
-                            <Button Content="Trim" HorizontalAlignment="Right" FontSize="14px"/>
+                            <Button Content="Trim" HorizontalAlignment="Right" FontSize="14px" Width="80"/>
                         </Grid>
                     </muxc:Expander.Header>
                     <StackPanel Orientation="Vertical">
                         <TextBlock TextWrapping="WrapWholeWords" Style="{StaticResource BodyTextBlockStyle}">
-                            Every SSD requires to trim once every 2 days to maintain the health and performance of the SSD. <LineBreak/>
+                            Every SSD requires to trim once every 2 days to maintain <LineBreak/>
+                            the health and performance of the SSD. <LineBreak/>
                             Note: Only SSD user should use this! Hard Disk Drive (HDD) users will not benefit.
                         </TextBlock>
                     </StackPanel>
