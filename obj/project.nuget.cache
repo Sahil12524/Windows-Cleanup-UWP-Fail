@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vrevpZAh1ubnprEsNElqYFJNz+kFkRGDkHqWIRnHWdMWsP9xwyudAWczp9tBNeOrmwpH5oJyEQ+g+Jn3fzdYxA==",
+  "dgSpecHash": "p2sEGTjd/7R+aQE78HxIlXtXD7P1sn6auOnWRD6iDCkWx/8ijfo+HFJDVG08SNxZZ0VUVN8EGNkdUaD64mg9Jg==",
   "success": true,
   "projectFilePath": "E:\\Users\\sahil\\source\\repos\\Windows Cleanup UWP\\Windows Cleanup UWP.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.14\\microsoft.net.uwpcoreruntimesdk.2.2.14.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.netcore.universalwindowsplatform\\6.2.14\\microsoft.netcore.universalwindowsplatform.6.2.14.nupkg.sha512",
-    "C:\\Users\\sahil\\.nuget\\packages\\microsoft.ui.xaml\\2.8.2\\microsoft.ui.xaml.2.8.2.nupkg.sha512",
+    "C:\\Users\\sahil\\.nuget\\packages\\microsoft.ui.xaml\\2.8.3\\microsoft.ui.xaml.2.8.3.nupkg.sha512",
     "C:\\Users\\sahil\\.nuget\\packages\\microsoft.web.webview2\\1.0.1264.42\\microsoft.web.webview2.1.0.1264.42.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform\\6.2.14\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform.6.2.14.nupkg.sha512",

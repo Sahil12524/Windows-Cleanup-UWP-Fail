@@ -55,6 +55,7 @@
             <Frame x:ConnectionId='4' x:Name="ContentFrame"                                                 ></Frame>
             <muxc:NavigationView.MenuItems>
                 <muxc:NavigationViewItem Content="Home" Tag="HomeView"  Icon="Home"/>
+                <muxc:NavigationViewItem Content="Basic Tools" Tag="BasicToolsView"  Icon="Globe"/>
             </muxc:NavigationView.MenuItems>
         </muxc:NavigationView>
     </Grid>

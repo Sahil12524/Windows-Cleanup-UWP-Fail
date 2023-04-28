@@ -58,3 +58,8 @@ E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\MultipleQualifiers
 E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\ProjectArchitectures.txt
 E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934824560000000.json
 E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Views\BasicToolsView.g.i.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Views\BasicToolsView.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Views\BasicToolsView.xaml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x64\Debug\Views\BasicToolsView.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x64\Debug\Views\BasicToolsView.xbf

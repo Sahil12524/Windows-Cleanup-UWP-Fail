@@ -510,3 +510,8 @@ E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate
 E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop\PInvoke.g.cs
 E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop\SafeTypes.g.cs
 E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\ilc\intermediate\Windows Cleanup UWP.McgInterop\SharedStubs.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\Views\BasicToolsView.xbf
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Views\BasicToolsView.g.i.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Views\BasicToolsView.g.cs
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Views\BasicToolsView.xaml
+E:\Users\sahil\source\repos\Windows Cleanup UWP\obj\x86\Release\Views\BasicToolsView.xbf

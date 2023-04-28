@@ -30,7 +30,7 @@
     <AppXManifest Include="E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-04-01T20:15:07.311</Modified>
+      <Modified>2023-04-01T21:14:46.903</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -94,7 +94,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-04-01T20:14:55.366</Modified>
+      <Modified>2023-04-01T21:14:28.701</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\WebView2Loader.dll">
       <PackagePath>WebView2Loader.dll</PackagePath>
@@ -102,15 +102,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Windows Cleanup UWP.dll">
       <PackagePath>Windows Cleanup UWP.dll</PackagePath>
-      <Modified>2023-04-01T20:15:07.167</Modified>
+      <Modified>2023-04-01T21:14:46.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Windows Cleanup UWP.exe">
       <PackagePath>Windows Cleanup UWP.exe</PackagePath>
-      <Modified>2023-04-01T20:15:07.304</Modified>
+      <Modified>2023-04-01T21:14:46.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Users\sahil\source\repos\Windows Cleanup UWP\bin\x86\Release\ilc\Windows Cleanup UWP.pdb">
       <PackagePath>Windows Cleanup UWP.pdb</PackagePath>
-      <Modified>2023-04-01T20:15:07.304</Modified>
+      <Modified>2023-04-01T21:14:46.778</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

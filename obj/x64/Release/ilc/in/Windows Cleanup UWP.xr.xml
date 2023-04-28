@@ -60,8 +60,9 @@
       <RootProperty Name="Style" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Margin" />
-      <RootProperty Name="FontSize" />
       <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Inlines" />
+      <RootProperty Name="FontSize" />
       <RootProperty Name="Padding" />
       <RootProperty Name="FontWeight" />
       <RootProperty Name="HorizontalAlignment" />
@@ -72,8 +73,32 @@
       <RootProperty Name="Content" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Padding" />
+      <RootProperty Name="Resources" />
       <RootProperty Name="Children" />
+      <RootProperty Name="Orientation" />
     </RootType>
+    <RootType FullName="Microsoft.UI.Xaml.Controls.Expander">
+      <RootProperty Name="Header" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.FrameworkElement">
+      <RootProperty Name="HorizontalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Control">
+      <RootProperty Name="HorizontalContentAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Setter">
+      <RootProperty Name="Property" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Content" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="FontSize" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Documents.LineBreak" />
+    <RootType FullName="Windows_Cleanup_UWP.Views.BasicToolsView" />
     <RootType FullName="Windows_Cleanup_UWP.Views.HomeView" />
     <RootType FullName="Windows_Cleanup_UWP.Views.SettingsView" />
   </Roots.RootTypes>

@@ -135,6 +135,10 @@ namespace Windows_Cleanup_UWP
                         ContentFrame.Navigate(typeof(Windows_Cleanup_UWP.Views.HomeView));
                         NavView.Header = "Home";
                         break;
+                    case "BasicToolsView":
+                        ContentFrame.Navigate(typeof(Windows_Cleanup_UWP.Views.BasicToolsView));
+                        NavView.Header = "Basic Tools";
+                        break;
                     default:
                         break;
                 }

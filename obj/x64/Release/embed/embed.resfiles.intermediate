@@ -1,4 +1,5 @@
 App.xbf
 MainPage.xbf
+Views\BasicToolsView.xbf
 Views\HomeView.xbf
 Views\SettingsView.xbf
